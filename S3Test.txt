@@ -1,3 +1,6 @@
+updated
+
+
 
 Basic Electronics 
 
@@ -52,7 +55,7 @@ Resistors are rated in ohms, and can be used to regulate the voltage and current
 Semiconductor:	
 Semiconductor is a material that has a resistivity value between that of a conductor and an insulator. The conductivity of a semiconductor material can be varied under an external electrical field. Devices made from semiconductor materials are the foundation of modern electronics, including radio, computers, telephones, and many other devices. Semiconductor devices include the transistor, many kinds of diodes including the light-emitting diode, the silicon controlled rectifier, and digital and analog integrated circuits
 
-Silicon is used to create most semiconductors commercially.  The other materials are used, including germanium, gallium arsenide, and silicon carbide. A pure semiconductor is often called an ìintrinsicî semiconductor. The conductivity, or ability to conduct, of semiconductor material can be drastically changed by adding other elements, called ìimpuritiesî to the melted intrinsic material and then allowing the melt to solidify into a new and different crystal.
+Silicon is used to create most semiconductors commercially.  The other materials are used, including germanium, gallium arsenide, and silicon carbide. A pure semiconductor is often called an ‚Äúintrinsic‚Äù semiconductor. The conductivity, or ability to conduct, of semiconductor material can be drastically changed by adding other elements, called ‚Äúimpurities‚Äù to the melted intrinsic material and then allowing the melt to solidify into a new and different crystal.
  
 					Fig-5 Semiconductor
 
@@ -104,21 +107,21 @@ The number of repetitions per unit time of the oscillations of an electromagneti
 
 
 Hertz (Hz):
-ï	Equal to one cycle per second.
-ï	Hertz can be used to measure any periodic event; the most common uses for hertz are to describe radio and audio frequencies
+‚Ä¢	Equal to one cycle per second.
+‚Ä¢	Hertz can be used to measure any periodic event; the most common uses for hertz are to describe radio and audio frequencies
 
 Kilohertz (KHZ):
-ï	One thousand cycles per second
-ï	Kilohertz is unit of measurement for alternating current, audio signals, and a measurement of wireless signals
+‚Ä¢	One thousand cycles per second
+‚Ä¢	Kilohertz is unit of measurement for alternating current, audio signals, and a measurement of wireless signals
 
 Megahertz (MHz):
-ï	One million cycles per second
-ï	Megahertz is the unit of measuring the bandwidth for high speed digital data, analog and digital video signals, and spread spectrum signals.
+‚Ä¢	One million cycles per second
+‚Ä¢	Megahertz is the unit of measuring the bandwidth for high speed digital data, analog and digital video signals, and spread spectrum signals.
 
 Gigahertz (GHz):
-ï	One billion cycles per second
-ï	It is commonly used to measure computer processing speeds
-ï	Computer CPU speeds were measured in megahertz, but after personal computers eclipsed the 1,000 MHz mark around the year 2000, gigahertz became the standard measurement unit. After all, it is easier to say "2.4 Gigahertz" than "2,400 Megahertz."
+‚Ä¢	One billion cycles per second
+‚Ä¢	It is commonly used to measure computer processing speeds
+‚Ä¢	Computer CPU speeds were measured in megahertz, but after personal computers eclipsed the 1,000 MHz mark around the year 2000, gigahertz became the standard measurement unit. After all, it is easier to say "2.4 Gigahertz" than "2,400 Megahertz."
 
 Clock Speed:
 
@@ -139,9 +142,9 @@ Analog Signals:
 Analog signals are continuous electrical signals that vary in time. Most of the time, the variations follow that of the non-electric (original) signal. Therefore, the two are analogous hence the name analog. 
  
 Figure 6: Analog Signal
-Not all analog signals vary as smoothly as the waveform shown in Figure 1. Analog signals represent some physical quantity and they are a ëMODELí of the real quantity.
+Not all analog signals vary as smoothly as the waveform shown in Figure 1. Analog signals represent some physical quantity and they are a ‚ÄòMODEL‚Äô of the real quantity.
 Example:
-Telephone voice signal is analog. The intensity of the voice causes electric current variations. At the receiving end, the signal is reproduced in the same proportion. Hence the electric current is a ëMODELí but not oneís voice since it is an electrical representation or analog of oneís voice.
+Telephone voice signal is analog. The intensity of the voice causes electric current variations. At the receiving end, the signal is reproduced in the same proportion. Hence the electric current is a ‚ÄòMODEL‚Äô but not one‚Äôs voice since it is an electrical representation or analog of one‚Äôs voice.
 Digital Signals:
 Digital signals are non-continuous, they change in individual steps. They consist of pulses or digits with discrete levels or values. The value of each pulse is constant, but there is a sudden change from one digit to the next. Digital signals have two amplitude levels called nodes. The value of which are specified as one of two possibilities such as 1 or 0, HIGH or LOW, TRUE or FALSE and so on. In reality, the values are anywhere within specific ranges and we define values within a given range.
 
@@ -233,15 +236,15 @@ The binary numeral system, or base-2 number system represents numeric values usi
 
 Octal system:
 
-The octal numeral system, or Oct for short, is the base-8 number system, and uses the digits 0 to 7. Numerals can be made from binary numerals by grouping consecutive binary digits into groups of three (starting from the right). For example, the binary representation for decimal 74 is 1001010, which can be grouped into (00)1 001 010 ó so the octal representation is 112.
+The octal numeral system, or Oct for short, is the base-8 number system, and uses the digits 0 to 7. Numerals can be made from binary numerals by grouping consecutive binary digits into groups of three (starting from the right). For example, the binary representation for decimal 74 is 1001010, which can be grouped into (00)1 001 010 ‚Äî so the octal representation is 112.
 
 Decimal system:
 
 The decimal (base ten or occasionally denary) numeral system has ten as its base. It is the most widely used numeral system
 
 Hexadecimal system:
-In mathematics and computer science, hexadecimal (also base-16, hexa, or hex) is a numeral system with a radix, or base, of 16. It uses sixteen distinct symbols, most often the symbols 0ñ9 to represent values zero to nine, and A, B, C, D, E, F (or a through f) to represent values ten to fifteen.
-Its primary use is as a human friendly representation of binary coded values, so it is often used in digital electronics and computer engineering. Since each hexadecimal digit represents four binary digits (bits)óalso called a nibbleóit is compact and easily translated shorthand to express values in base two.
+In mathematics and computer science, hexadecimal (also base-16, hexa, or hex) is a numeral system with a radix, or base, of 16. It uses sixteen distinct symbols, most often the symbols 0‚Äì9 to represent values zero to nine, and A, B, C, D, E, F (or a through f) to represent values ten to fifteen.
+Its primary use is as a human friendly representation of binary coded values, so it is often used in digital electronics and computer engineering. Since each hexadecimal digit represents four binary digits (bits)‚Äîalso called a nibble‚Äîit is compact and easily translated shorthand to express values in base two.
 
 
  
@@ -349,7 +352,7 @@ Input A	Input B	Output C
 The XOR gate with inputs A and B and output C implements the logical expression.    C=A (+) B
 
 XNOR Gate:
-The XNOR (exclusive-NOR) gate is a combination XOR gate followed by an inverter. Its output is "true" if the inputs are the same, andî false" if the inputs are different.
+The XNOR (exclusive-NOR) gate is a combination XOR gate followed by an inverter. Its output is "true" if the inputs are the same, and‚Äù false" if the inputs are different.
  
 XNOR gate
 Input A	Input B	Output C
