@@ -1,0 +1,11 @@
+Public DNS	ec2-3-81-214-35.compute-1.amazonaws.com
+User name	Administrator
+Password	
+k!FK-F86*@P
+
+
+
+Public DNS	ec2-54-205-37-181.compute-1.amazonaws.com
+User name	Administrator
+Password	
+g5zErhdvV)
